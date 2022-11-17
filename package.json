@@ -1,6 +1,6 @@
 {
   "name": "@synaptic-simulations/eslint-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom ESLint rules for use in Synaptic Simulations' projects",
   "main": "./dist/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "tsconfig-paths": "^4.1.0"
   },
   "devDependencies": {
-    "@synaptic-simulations/eslint-config": "^1.0.1-rc8",
+    "@synaptic-simulations/eslint-config": "^1.0.1",
     "@types/eslint": "^8.4.10",
     "@types/estree": "^1.0.0",
     "@types/micromatch": "^4.0.2",
