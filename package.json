@@ -1,6 +1,6 @@
 {
   "name": "@synaptic-simulations/eslint-plugin",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "description": "Custom ESLint rules for use in Synaptic Simulations' projects",
   "main": "./dist/index.js",
   "scripts": {
